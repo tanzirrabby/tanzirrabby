@@ -77,7 +77,7 @@ I’m a **Software Engineer** and **ML Researcher**. My job is basically explain
 ### 📝 Stuff I Wrote (Probably at 3 AM)
 *Read my deep dives into why my code didn't work the first time.*
 
-* 🤖 **[Why 96.8% Accuracy Wasn't Enough](https://medium.com/@tanzirrabby)** - *Spoiler: The real world is messy.*
+* 🤖 **[Why 96.8% Accuracy Wasn't Enough](https://medium.com/@tanzirabby)** - *Spoiler: The real world is messy.*
 * 📉 **The Overfitting Trap** - *A tragedy in three acts.*
 
 ---
