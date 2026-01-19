@@ -61,3 +61,74 @@
       </td>
       <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux" />
+        <br>Linux
+      </td>
+    </tr>
+  </table>
+</div>
+</details>
+
+<details>
+<summary><b>📂 ACCESS_LEVEL_2: MISSION LOGS (Featured Projects)</b></summary>
+<br />
+<blockquote>
+  <b>🧠 Project: Neural Diagnosis</b><br>
+  <i>Current Status: Active Research</i><br>
+  Developing Deep Learning Ensembles for <b>Early-Stage Parkinson’s Detection</b>.
+</blockquote>
+<blockquote>
+  <b>🍛 Project: Vision Chef</b><br>
+  <i>Achievement: 🥈 1st Runners-Up</i><br>
+  Trained a Vision Transformer (ViT) on <b>1,587 custom images</b> of Bangladeshi Food (96.8% Val Acc).
+</blockquote>
+<blockquote>
+  <b>⛑️ Project: Flood Aid</b><br>
+  <i>Status: Deployed</i><br>
+  Full-stack React/Node.js platform for disaster relief management.
+</blockquote>
+</details>
+
+<details>
+<summary><b>📂 ACCESS_LEVEL_3: PERSONAL_DATA (About Me)</b></summary>
+<br />
+<ul>
+  <li><b>Class:</b> Software Engineer / Researcher</li>
+  <li><b>Base:</b> Comilla, Bangladesh 🇧🇩</li>
+  <li><b>Education:</b> BAIUST (CGPA: 3.72/4.00)</li>
+  <li><b>Special Ability:</b> Trekking High Altitudes (Annapurna Base Camp '25) 🏔️</li>
+  <li><b>Weakness:</b> Coffee Dependency ☕</li>
+</ul>
+</details>
+
+---
+
+### 📊 System Metrics (3D View)
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanzirrabby&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanzirrabby&theme=tokyonight" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanzirrabby&theme=tokyonight" alt="Most commit language" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanzirrabby&theme=tokyonight" alt="Stats" />
+</div>
+
+---
+
+### 🧩 Daily Decryption (Random Joke)
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Code is poetry written in a language machines understand."</i>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=tanzirrabby&style=flat-square&color=blueviolet" alt="Visitor Count" />
+</div>
