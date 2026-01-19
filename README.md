@@ -94,7 +94,7 @@
 <ul>
   <li><b>Class:</b> Software Engineer / Researcher</li>
   <li><b>Base:</b> Comilla, Bangladesh 🇧🇩</li>
-  <li><b>Education:</b> BAIUST (CGPA: 3.72/4.00)</li>
+  <li><b>Education:</b> BAIUST</li>
   <li><b>Special Ability:</b> Trekking High Altitudes (Annapurna Base Camp '25) 🏔️</li>
   <li><b>Weakness:</b> Coffee Dependency ☕</li>
 </ul>
